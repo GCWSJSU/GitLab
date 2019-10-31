@@ -3,3 +3,11 @@ Please add a line to the file wherever you like! :)
 
 
 hello!
+
+Beep boop
+
+
+Hi! I like cats.
+
+write stuff here and check it out on git. :D
+
